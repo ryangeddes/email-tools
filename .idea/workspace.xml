@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e203d306-07c8-4fbc-8866-b032f9a05f9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZD64z1KMyXw3NNIMh6I7xlRoHf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python&#10;Shell Script" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../moneymanage/geddes-calculator.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan\PycharmProjects\email" />
+      <recent name="C:\Users\Ryan\PycharmProjects\ryan-test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.rhinomailer">
+    <configuration name="email-bounce-suppression-scrub" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="email" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/email-bounce-suppression-scrub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="email-dedupe (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="email" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/email-dedupe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="email-suppress-domains" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="email" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/email-suppress-domains.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="geddes-calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="email" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../moneymanage" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../moneymanage/geddes-calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rhinomailer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="email" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rhinomailer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rhinomailer" />
+        <item itemvalue="Python.geddes-calculator" />
+        <item itemvalue="Python.email-suppress-domains" />
+        <item itemvalue="Python.email-bounce-suppression-scrub" />
+        <item itemvalue="Python.email-dedupe (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e203d306-07c8-4fbc-8866-b032f9a05f9f" name="Default Changelist" comment="" />
+      <created>1584361129444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584361129444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Intentions" timestamp="1587577317780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1587577317780" />
+    <state x="517" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1584385586098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1584385586098" />
+    <state x="496" y="39" key="#email-validator" timestamp="1584392218803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="39" key="#email-validator/0.0.1536.824@0.0.1536.824" timestamp="1584392218803" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586974295352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586974295352" />
+    <state x="591" y="311" key="Github.CreateGistDialog" timestamp="1587848342062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="311" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1587848342062" />
+    <state width="1515" height="341" key="GridCell.Tab.0.bottom" timestamp="1587849405012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="341" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587849405012" />
+    <state width="1515" height="341" key="GridCell.Tab.0.center" timestamp="1587849405012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="341" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587849405012" />
+    <state width="1515" height="341" key="GridCell.Tab.0.left" timestamp="1587849405012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="341" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587849405012" />
+    <state width="1515" height="341" key="GridCell.Tab.0.right" timestamp="1587849405012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="341" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587849405012" />
+    <state width="1087" height="261" key="GridCell.Tab.1.bottom" timestamp="1584587291399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1087" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584587291399" />
+    <state width="1087" height="261" key="GridCell.Tab.1.center" timestamp="1584587291399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1087" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584587291399" />
+    <state width="1087" height="261" key="GridCell.Tab.1.left" timestamp="1584587291399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1087" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584587291399" />
+    <state width="1087" height="261" key="GridCell.Tab.1.right" timestamp="1584587291399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1087" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584587291399" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1584388338018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584388338018" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587414349715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587414349715" />
+    <state x="397" y="128" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584556746663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="397" y="128" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1584556746663" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587755171111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587755171111" />
+  </component>
+</project>
